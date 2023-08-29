@@ -37,3 +37,6 @@
 ||omegle.com^
 ||gvt1.com^
 ||enjoy4fun.com^
+||youtube.com^
+||^youtube^
+||youtubei.googleapis.com^
