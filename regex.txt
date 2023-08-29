@@ -40,3 +40,4 @@
 ||youtube.com^
 ||^youtube^
 ||youtubei.googleapis.com^
+||googlevideo.com^
